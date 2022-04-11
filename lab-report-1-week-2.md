@@ -28,8 +28,30 @@
 ![Command_Example](https://user-images.githubusercontent.com/103292060/162651712-bd3b9256-b2b9-4911-a727-384db8b9ea2d.PNG)
 
 ## Moving Files with scp
+* `scp` is a command used to move files from your computer to a remote computer.
+* Create a file named `WhereAmI.java` with the following code
+
+```
+class WhereAmI {
+  public static void main(String[] args) {
+    System.out.println(System.getProperty("os.name"));
+    System.out.println(System.getProperty("user.name"));
+    System.out.println(System.getProperty("user.home"));
+    System.out.println(System.getProperty("user.dir"));
+  }
+}
+```
+* run this file with `javac` and `java`
+* then run the following command: `scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/` but with your own account
+* use `ls` to see if the file was coppied into the remote computer
+* run `javac`   and `java`
+
+![WhereAmIStuff__](https://user-images.githubusercontent.com/103292060/162654668-3c9b6729-73b9-4ff3-ae81-79c4b2cfed44.PNG)
 
 ## Setting an SSH Key
+* This SSH key will allow you to log into a reote computer without having to type in your passowrd!
+* 
+![sshThing](https://user-images.githubusercontent.com/103292060/162655145-d4b4017a-7557-47e5-afc8-825e3646b26a.PNG)
 
 ## Optimizing Remote Running
 
