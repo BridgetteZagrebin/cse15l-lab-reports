@@ -50,8 +50,30 @@ class WhereAmI {
 
 ## Setting an SSH Key
 * This SSH key will allow you to log into a reote computer without having to type in your passowrd!
-* 
+* Follow the steps bellow, make sure that you just press enter when it asks you for a passphrase!:
+```
+# on client (your computer)
+$ ssh-keygen
+Generating public/private rsa key pair.
+Enter file in which to save the key (/Users/<user-name>/.ssh/id_rsa): /Users/<user-name>/.ssh/id_rsa
+Enter passphrase (empty for no passphrase): 
+Note: Make sure that you do not add a passphrase for this step.
+Enter same passphrase again: 
+```
+* After that, it should show you some text art.
+* From now on, when you login, it should look like bellow.
 ![sshThing](https://user-images.githubusercontent.com/103292060/162655145-d4b4017a-7557-47e5-afc8-825e3646b26a.PNG)
 
 ## Optimizing Remote Running
+* Now go to `WhereAmI.java` and make local edits.
+* Run some commands like the ones bellow:
+```
+You can write a command in quotes at the end of an ssh command to directly run it on the remote server, then exit. For example, this command will log in and list the home directory on the remote server:
+$ ssh cs15lsp22zz@ieng6.ucsd.edu "ls"
+You can use semicolons to run multiple commands on the same line in most terminals. For example, try:
+$ cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI
+You can use the up-arrow on your keyboard to recall the last command that was run
+```
+* Bellow is an example.
 
+![ls](https://user-images.githubusercontent.com/103292060/162658213-7632d06c-09ba-4cfa-83bb-0f3bddbf71f5.PNG)
