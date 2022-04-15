@@ -1,3 +1,5 @@
+[Go Back](https://bridgettezagrebin.github.io/cse15l-lab-reports/)
+
 ## Installing VScode
 * Go to [https://code.visualstudio.com/](https://code.visualstudio.com/).
 * Download and install the version correspnding to your system(Mac, Windows, etc.).
@@ -49,7 +51,7 @@ class WhereAmI {
 ![WhereAmIStuff__](https://user-images.githubusercontent.com/103292060/162654668-3c9b6729-73b9-4ff3-ae81-79c4b2cfed44.PNG)
 
 ## Setting an SSH Key
-* This SSH key will allow you to log into a reote computer without having to type in your passowrd!
+* This SSH key will allow you to log into a remote computer without having to type in your passowrd!
 * Follow the steps bellow, make sure that you just press enter when it asks you for a passphrase!:
 ```
 # on client (your computer)
