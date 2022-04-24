@@ -9,6 +9,7 @@ Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
 ```
 
 * **The relationship between the bug, the symptom, and the faliure-inducing input:**
+
 The symptom of this error was the code crashing. This is visible on the faliure inducing input above. The bug was the the code running into multiple loops when it could not find another open bracket; which made the code crash.
 
 ## Code Change 2
@@ -20,6 +21,7 @@ Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
 ```
 
 * **The relationship between the bug, the symptom, and the faliure-inducing input:**
+
 The symptom of this error was the code crashing. This is visible on the faliure inducing input above. The bug was the the code running into multiple loops when it could not find another open bracket; which made the code crash.
   
 ## Code Change 3
@@ -31,4 +33,5 @@ The symptom of this error was the code crashing. This is visible on the faliure 
 ```
 
 * **The relationship between the bug, the symptom, and the faliure-inducing input:**
+
 The symptom of this error was the code producing the wrong output. This is visible on the faliure inducing input above. The bug was the the code not taking the excalmation mark into account for images; which made the code rpoduce the wrong output.
