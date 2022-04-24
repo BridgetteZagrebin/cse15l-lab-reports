@@ -10,7 +10,7 @@ Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
 
 * **The relationship between the bug, the symptom, and the faliure-inducing input:**
 
-The symptom of this error was the code crashing. This is visible on the faliure inducing input above. The bug was the the code running into multiple loops when it could not find another open bracket; which made the code crash.
+The symptom of this error was the code having an infinate loop. This is visible on the faliure inducing input above. The bug was the the code running into multiple loops when it could not find another open bracket; which made the code have an infinate loop.
 
 ## Code Change 2
 <img width="845" alt="Screen Shot 2022-04-23 at 4 39 28 PM" src="https://user-images.githubusercontent.com/103292060/164949631-967da1a4-e393-4ca5-ab0e-007314814174.png">
