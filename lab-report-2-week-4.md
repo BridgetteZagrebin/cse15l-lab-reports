@@ -12,7 +12,6 @@
         at MarkdownParse.getLinks(MarkdownParse.java:19)
         at MarkdownParse.main(MarkdownParse.java:30)
 ```
-<img width="846" alt="Screen Shot 2022-04-23 at 9 40 42 PM" src="https://user-images.githubusercontent.com/103292060/164956975-bb1f41a0-bf16-4c54-9ba5-9cacbc1afa1d.png">
 * The relationship between the bug, the symptom, and the faliure-inducing input is.
 
 ## Code Change 2
@@ -22,7 +21,6 @@
 ```
 Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
 ```
-<img width="846" alt="Screen Shot 2022-04-23 at 9 42 24 PM" src="https://user-images.githubusercontent.com/103292060/164957005-ed4b94f2-f8e8-408b-98df-0cdb302d407e.png">
 * The relationship between the bug, the symptom, and the faliure-inducing input is.
 
 ## Code Change 3
@@ -37,7 +35,6 @@ Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
         at MarkdownParse.getLinks(MarkdownParse.java:19)
         at MarkdownParse.main(MarkdownParse.java:30)
 ```
-<img width="846" alt="Screen Shot 2022-04-23 at 9 40 42 PM" src="https://user-images.githubusercontent.com/103292060/164956975-bb1f41a0-bf16-4c54-9ba5-9cacbc1afa1d.png">
 * The relationship between the bug, the symptom, and the faliure-inducing input is.
 
 
