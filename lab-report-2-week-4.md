@@ -23,8 +23,7 @@ Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
 The 
   
 ## Code Change 3
-(This was something that we revisited after taking it out earlier)
-<img width="845" alt="Screen Shot 2022-04-23 at 4 41 40 PM" src="https://user-images.githubusercontent.com/103292060/164949653-e54e31ba-3ea0-4ed4-a618-87b2c7545d07.png">
+<img width="848" alt="Screen Shot 2022-04-23 at 10 46 14 PM" src="https://user-images.githubusercontent.com/103292060/164958458-7300a6d9-6753-4712-8ff2-4e2b3c338ed5.png">
 * [Link to test file that prompted us to make this change](https://github.com/BridgetteZagrebin/markdown-parser/blob/main/file1.md)
 * Symptom: 
 ```
