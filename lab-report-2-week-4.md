@@ -10,7 +10,8 @@
         at java.base/java.lang.StringLatin1.newString(StringLatin1.java:766)
         at java.base/java.lang.String.substring(String.java:2708)
         at MarkdownParse.getLinks(MarkdownParse.java:19)
-        at MarkdownParse.main(MarkdownParse.java:30)```
+        at MarkdownParse.main(MarkdownParse.java:30)
+```
 * The relationship between the bug, the symptom, and the faliure-inducing input is.
 
 ## Code Change 2
@@ -18,7 +19,8 @@
 * [Link to test file that prompted us to make this change](https://github.com/BridgetteZagrebin/markdown-parser/blob/main/test2-file.md?plain=1)
 * Symptom: 
 ```
-Exception in thread "main" java.lang.OutOfMemoryError: Java heap space```
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+```
 * The relationship between the bug, the symptom, and the faliure-inducing input is.
 
 ## Code Change 3
@@ -31,7 +33,8 @@ Exception in thread "main" java.lang.OutOfMemoryError: Java heap space```
         at java.base/java.lang.StringLatin1.newString(StringLatin1.java:766)
         at java.base/java.lang.String.substring(String.java:2708)
         at MarkdownParse.getLinks(MarkdownParse.java:19)
-        at MarkdownParse.main(MarkdownParse.java:30)```
+        at MarkdownParse.main(MarkdownParse.java:30)
+```
 * The relationship between the bug, the symptom, and the faliure-inducing input is.
 
 
