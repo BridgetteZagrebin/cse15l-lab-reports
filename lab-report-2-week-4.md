@@ -12,6 +12,7 @@
         at MarkdownParse.getLinks(MarkdownParse.java:19)
         at MarkdownParse.main(MarkdownParse.java:30)
 ```
+
 * The relationship between the bug, the symptom, and the faliure-inducing input is.
 
 ## Code Change 2
@@ -21,6 +22,7 @@
 ```
 Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
 ```
+
 * The relationship between the bug, the symptom, and the faliure-inducing input is.
 
 ## Code Change 3
@@ -35,6 +37,7 @@ Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
         at MarkdownParse.getLinks(MarkdownParse.java:19)
         at MarkdownParse.main(MarkdownParse.java:30)
 ```
+
 * The relationship between the bug, the symptom, and the faliure-inducing input is.
 
 
