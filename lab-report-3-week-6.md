@@ -13,9 +13,10 @@
 <img width="810" alt="Screen Shot 2022-05-06 at 11 48 14 PM" src="https://user-images.githubusercontent.com/103292060/167246017-eaf9f65d-abd9-448c-af18-c7f14a2aa5d4.png">
 * A `scp` command copying a file to my account using just the alias I chose is shown above.
 
-
+--
 ## Setup Github Access from ieng6
 *
 
+--
 ## Copy whole directories with scp -r
 *
