@@ -24,11 +24,11 @@
 * Above shows where the public key(named id_rsa.pub) and private key(named id_rsa) are stored in the .ssh folder.
 
 
-
+> <img width="729" alt="Screen Shot 2022-05-08 at 10 28 37 PM" src="https://user-images.githubusercontent.com/103292060/167346119-b695d466-ab33-4025-9141-e8f77d69c1ee.png">
 * Above shows running git commands to commit and push a change to Github while logged into your ieng6 account.
 
 
-* [Link to the resulting commit]()
+* [Link to the resulting commit](https://github.com/BridgetteZagrebin/markdown-parser/commit/d01455b608dcbfc2f00f7863b485798af7b36552)
 
 
 ---
