@@ -37,4 +37,4 @@
 
 * logging into your ieng6 account after doing this and compiling and running the tests for your repository.
 
-* combining `scp`, `;`, and ssh to copy the whole directory and run the tests in one line.
+* combining `scp`, `;`, and `ssh` to copy the whole directory and run the tests in one line.
