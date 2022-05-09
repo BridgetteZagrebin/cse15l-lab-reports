@@ -35,6 +35,8 @@
 > <img width="673" alt="Screen Shot 2022-05-08 at 1 39 47 PM" src="https://user-images.githubusercontent.com/103292060/167318465-266be694-beab-4184-8931-1c114cd8a1fb.png">
 * Above shows the whole markdown-parse direcotry being coppied into my ieng6 account.
 
-* logging into your ieng6 account after doing this and compiling and running the tests for your repository.
+
+> <img width="800" alt="Screen Shot 2022-05-08 at 8 26 26 PM" src="https://user-images.githubusercontent.com/103292060/167335690-e4622ac5-0493-4ab0-b4f4-592b82351c0d.png">
+* Above is me logging into my ieng6 account and compiling and running the tests for my repository.
 
 * combining `scp`, `;`, and `ssh` to copy the whole directory and run the tests in one line.
