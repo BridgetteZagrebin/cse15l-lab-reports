@@ -24,7 +24,9 @@
 * Above shows where the public key(named id_rsa.pub) and private key(named id_rsa) are stored in the .ssh folder.
 
 
-* Show running git commands to commit and push a change to Github while logged into your ieng6 account.
+
+* Above shows running git commands to commit and push a change to Github while logged into your ieng6 account.
+
 
 * [Link to the resulting commit]()
 
@@ -45,5 +47,5 @@
 > <img width="1024" alt="Screen Shot 2022-05-08 at 8 54 13 PM" src="https://user-images.githubusercontent.com/103292060/167337997-078f5bfb-7564-4257-b426-8c39de023f73.png">
 > <img width="1024" alt="Screen Shot 2022-05-08 at 8 54 22 PM" src="https://user-images.githubusercontent.com/103292060/167338006-677584cb-da26-48c0-8168-ac344eca1130.png">
 > <img width="1024" alt="Screen Shot 2022-05-08 at 8 54 41 PM" src="https://user-images.githubusercontent.com/103292060/167338020-5cada383-a415-4864-be23-32ea184b9ec9.png">
-* combining `scp`, `;`, and `ssh` to copy the whole directory and run the tests in one line.
+* Above shows combining `scp`, `;`, and `ssh` to copy the whole directory and run the tests in one line.
 
