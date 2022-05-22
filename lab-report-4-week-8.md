@@ -50,6 +50,6 @@
 
 
 ## Potential Solutions
-* I do think there is a small (<10 lines) code change that will make my program work for snippet 1 and all related cases that use inline code with backticks. This code change would require 
-* I do think there is a small (<10 lines) code change that will make my program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets. This code change would require
-* I do think there is a small (<10 lines) code change that will make my program work for snippet 3 and all related cases that have newlines in brackets and parentheses. This code change would require
+* I do think there is a small (<10 lines) code change that will make my program work for snippet 1 and all related cases that use inline code with backticks. This code change would require looking for backticks at the indexes before and after brackets.
+* I do not think there is a small (<10 lines) code change that will make my program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets. This code change would require a case with count of opened and closed brackets and another count of opened and closed parenthesis in the while loop. It would also need to look at the indexes within brackets to see if there is a link hidden in brakcets.
+* I do think there is a small (<10 lines) code change that will make my program work for snippet 3 and all related cases that have newlines in brackets and parentheses. This code change would require the option of newlines being within the indexes of parenthesis. 
