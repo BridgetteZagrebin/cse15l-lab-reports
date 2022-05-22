@@ -1,7 +1,7 @@
 [<--Go Back](https://bridgettezagrebin.github.io/cse15l-lab-reports/)
 
-[Link to my own markdown-parse repository](https://github.com/BridgetteZagrebin/markdown-parser)
-[Link to the repository reviewed in week 7](https://github.com/21KennethTran/markdown-parser)
+* [Link to my own markdown-parse repository](https://github.com/BridgetteZagrebin/markdown-parser)
+* [Link to the repository reviewed in week 7](https://github.com/21KennethTran/markdown-parser)
 
 ## Snippet 1
 * It should produce: 
