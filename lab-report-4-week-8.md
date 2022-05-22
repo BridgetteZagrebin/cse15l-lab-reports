@@ -16,7 +16,9 @@
 ## Snippet 2
 * It should produce: 
 
-``` [a.com, a.com(()), example.com] ```
+``` 
+[a.com, a.com(()), example.com] 
+```
 * Code in MarkdownParseTest.java for it's test:
 * The output based on my implementation:
 * The output based on the implementation from week 7:
@@ -24,7 +26,9 @@
 ## Snippet 3
 * It should produce: 
 
-``` [https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule] ```
+``` 
+[https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule] 
+```
 * Code in MarkdownParseTest.java for it's test:
 * The output based on my implementation:
 * The output based on the implementation from week 7:
