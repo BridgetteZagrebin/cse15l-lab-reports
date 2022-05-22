@@ -6,7 +6,9 @@
 ## Snippet 1
 * It should produce: 
 
-``` [`google.com] ```
+``` 
+[`google.com]
+```
 * Code in MarkdownParseTest.java for it's test:
 * The output based on my implementation:
 * The output based on the implementation from week 7:
